@@ -1,2 +1,1 @@
-# GitHub-GraphQL-API
-This repository has been created for GDSC recs 2023
+#Task ID: GitHub Profile using GraphQL API
