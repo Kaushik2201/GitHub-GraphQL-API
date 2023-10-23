@@ -19,7 +19,7 @@ Things I have displayed
 * Commit History Heat Map in form of a graph
 
 
-  Technologies used - `Python` `HTML` and `CSS`
+  Technologies used - `Python` `HTML` and `CSS`.
   API used - `GraphQL`
 
 * Here is the list of few `Python` libraries I have used and needs to be installed before running the code
