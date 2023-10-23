@@ -14,7 +14,7 @@ Things I have displayed
   * Email
   * Creation date of user account
   * Profile picture
-* Top Repositories of the user
+* Top 7 Repositories of the user
 * 2 Commits each in those top repositories
 * Commit History Heat Map in form of a graph
 
