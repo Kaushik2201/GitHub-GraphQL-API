@@ -20,6 +20,7 @@ Things I have displayed
 
 
   Technologies used - `Python` `HTML` and `CSS`
+  API used - `GraphQL`
 
 * Here is the list of few `Python` libraries I have used and needs to be installed before running the code
     * requests
