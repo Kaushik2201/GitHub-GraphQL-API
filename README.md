@@ -47,7 +47,7 @@ Things I have displayed
 
 
 
-  * You can find the app deployment link here [http://ktx1104.pythonanywhere.com]
+  * You can find the app deployment link [here] (http://ktx1104.pythonanywhere.com)
 
 
 
