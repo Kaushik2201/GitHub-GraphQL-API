@@ -35,15 +35,23 @@ Things I have displayed
 * Main Page index.html
   * In this page we need to enter the GitHub username whose data we need to fetch 
 
-![image](https://github.com/Kaushik2201/GitHub-GraphQL-API/assets/118542939/90607420-ab5c-4638-b8bf-630135b78698)
+![image](https://github.com/Kaushik2201/GitHub-GraphQL-API/assets/118542939/24e2eff4-81b3-47c9-9e1b-1ea02366fd6e)
+
 
 * Once the usename is entered you will be redirected to user_info.html which looks like this
 
-  ![image](https://github.com/Kaushik2201/GitHub-GraphQL-API/assets/118542939/ae9c97e4-3462-4d3f-99b6-bd8c056ebb59)
+![image](https://github.com/Kaushik2201/GitHub-GraphQL-API/assets/118542939/36499b60-5fb7-4d30-b8ae-1b8682f65564)
 
-  ![image](https://github.com/Kaushik2201/GitHub-GraphQL-API/assets/118542939/9e31a14b-2c70-4bf3-bc44-471ab9cce789)
 
-  ![image](https://github.com/Kaushik2201/GitHub-GraphQL-API/assets/118542939/8d90efbc-5dec-4b3c-b8ce-7adbe1ca497b)
+![image](https://github.com/Kaushik2201/GitHub-GraphQL-API/assets/118542939/292b50d2-5dec-4e9b-bb8a-2e53e9a17dfb)
+
+
+![image](https://github.com/Kaushik2201/GitHub-GraphQL-API/assets/118542939/7d63171f-d8fb-4b22-b755-cf83800d4d31)
+
+
+* Heat Map
+
+![image](https://github.com/Kaushik2201/GitHub-GraphQL-API/assets/118542939/895b0303-1c43-4b22-8366-244a9f191a97)
 
 
 
