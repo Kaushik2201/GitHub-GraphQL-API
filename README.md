@@ -1,9 +1,5 @@
-# Task ID: GitHub Profile using GraphQL API
+# GitHub Profile using GraphQL API
 
-Mentors : Vedant Tarale and Anirudh Prabhakaran 
-
-What I have understood from the Problem Statement 
-We have to fetch data from user's GitHub account and make a interface to display it. Using GraphQL API
 
 Things I have displayed 
 * User Info
@@ -60,4 +56,4 @@ Things I have displayed
 
 
  
-Built By - Kaushik Kudchadkar - 221EE115
+Built By - [Kaushik V Kudchadkar](https://www.linkedin.com/in/kaushik-kudchadkar-23221a253/) 
