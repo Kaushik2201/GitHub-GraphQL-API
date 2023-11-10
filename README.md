@@ -1,4 +1,5 @@
-# GitHub Profile using GraphQL API
+# GitHub Profile using GraphQL 
+
 
 
 Things I have displayed 
